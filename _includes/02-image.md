@@ -1,1 +1,1 @@
-(!alt-Yaktokat] (image-https://octodex.github.com/images/yaktocat.png))
+[Image of Yaktokat](https://octodex.github.com/images/yaktocat.png)
